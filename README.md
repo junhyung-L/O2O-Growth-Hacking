@@ -1,4 +1,8 @@
 # 🏆 2025 PBL Program: Revitalizing Old Downtown Alley Commercial Districts around Dong-Incheon Station
+
+[한국어](README.ko.md)
+
+> [Project details](PORTFOLIO.md)
 *(Strategic Planning & Urban Regeneration Proposal)*
 
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
